@@ -1,0 +1,8 @@
+<resources>
+    <string name="MyApplication">Quiz</string>
+    <string name="question">Is the moon larger than the sun?</string>
+    <string name="tr">True</string>
+    <string name="fl">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+</resources>
